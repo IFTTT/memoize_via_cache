@@ -2,6 +2,9 @@
 
 Adds the ability to memoize functions through the Rails cache.
 
+## Deprecated
+This project is not being developed. Feel free to fork!
+
 ## Installation
 
 Add this line to your application's Gemfile:
